@@ -1,8 +1,7 @@
 title: Micropub Content
-url: https://muan.github.io/micropub-content
-micropub_endpoint: https://muan-micropub-content.glitch.me/micropub
+url: https://brianzelip.github.io/micropub-content
+micropub_endpoint: https://bzelip-micropub-content.glitch.me/micropub
 
-timezone: GMT
 permalink: /posts/:title
 kramdown:
   hard_wrap: true
