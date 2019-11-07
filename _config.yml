@@ -1,6 +1,6 @@
 title: Micropub Content
 url: https://brianzelip.github.io/micropub-content
-micropub_endpoint: https://bzelip-micropub-content.glitch.me/micropub
+micropub_endpoint: https://bzelip-micropub-endpoint.glitch.me/micropub
 
 permalink: /posts/:title
 kramdown:
